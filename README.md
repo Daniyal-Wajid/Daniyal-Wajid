@@ -1,129 +1,89 @@
 <div align="center">
 
-# DANIYAL WAJID
+# Daniyal Wajid
 
-**software engineer · full-stack · artificial intelligence**
+**Software Engineer**
 
-building things that make me curious.
+Building software across **web · AI · computer vision**
 
-<br>
+<br />
 
-[**website**](https://daniyal-wajid.github.io/DaniyalWajid/)   ·  
-[**linkedin**](YOUR_LINKEDIN_URL)   ·  
-[**email**](mailto:daniyal.wajid12@gmail.com)
+[Website](https://daniyal-wajid.github.io/DaniyalWajid/) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:daniyal.wajid12@gmail.com)
 
 </div>
 
-<br>
+<br />
 
 ---
 
-### `01` — things I've been building
+### Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**HawkEye**
 
-**HAWKEYE**
+An AI-powered campus monitoring platform built around real-time computer vision.
 
-Campus monitoring, but automated.
+`React` `Node.js` `MongoDB` `Python` `YOLOv8` `OpenCV`
 
-A computer-vision system that watches live video, detects violations, and turns what it sees into actionable alerts.
+→ **90.4% mAP@50**
 
-`YOLOv8` `OpenCV` `React` `Node` `MongoDB`
+[Repository](YOUR_HAWKEYE_REPO)
 
-**90.4 mAP@50**
+<br />
 
-[github →](YOUR_HAWKEYE_REPO)
+**Attendify**
 
-</td>
+A facial recognition system for automated attendance and student verification.
 
-<td width="50%" valign="top">
+`React` `Node.js` `MongoDB` `Python` `CNN` `OpenCV`
 
-**ATTENDIFY**
+→ **80%+ recognition accuracy**
 
-Attendance without the paperwork.
+[Repository](YOUR_ATTENDIFY_REPO)
 
-A facial-recognition system built around automated student verification, tracking, and reporting.
+<br />
 
-`CNN` `OpenCV` `React` `Node` `MongoDB`
+**ClassTrack**
 
-**80%+ recognition accuracy**
+A computer vision system for examination monitoring and anomaly detection.
 
-[github →](YOUR_ATTENDIFY_REPO)
+`React` `Node.js` `MongoDB` `Python` `YOLOv8`
 
-</td>
-</tr>
+→ **60% reduction in manual invigilation**
 
-<tr>
-<td width="50%" valign="top">
+[Repository](YOUR_CLASSTRACK_REPO)
 
-**CLASSTRACK**
+<br />
 
-Making examination monitoring smarter.
+**AI Wardrobe**
 
-RFID verification paired with computer vision to detect suspicious behavior in real time.
-
-`YOLOv8` `OpenCV` `React` `Node`
-
-**60% less manual invigilation**
-
-[github →](YOUR_CLASSTRACK_REPO)
-
-</td>
-
-<td width="50%" valign="top">
-
-**AI WARDROBE**
-
-An experiment that started with clothes.
-
-Upload an item, let AI understand it, organize your wardrobe, and help turn what's already there into something new.
+A web application exploring computer vision for clothing recognition, organization, and outfit discovery.
 
 `AI` `Computer Vision` `Web`
 
-**currently evolving**
-
-[try it →](YOUR_WARDROBE_URL)
-
-</td>
-</tr>
-</table>
-
-<br>
+[Live project](YOUR_WARDROBE_URL)
 
 ---
 
-### `02` — the stack
+### Stack
 
-```text
-javascript     react · next.js · node · express
-python         pytorch · tensorflow · opencv
-data           mongodb · sql
-vision         yolov8 · cnn · object detection
-tools          git · linux · postman
-```
+**JavaScript** · React · Next.js · Node.js · Express
+**Python** · PyTorch · TensorFlow · OpenCV · YOLOv8
+**MongoDB** · SQL · REST APIs · Git · Linux
 
 ---
 
-### `03` — lately
+### Now
 
-```text
-→ building full-stack applications
-→ experimenting with AI-powered products
-→ learning something new every time I open a repository
-```
+Working on software, exploring AI-powered products, and getting better at building things that hold up outside the development environment.
 
 ---
 
 <div align="center">
 
-### let's build something.
+**Lahore, Pakistan**
 
-**[portfolio ↗](https://daniyal-wajid.github.io/DaniyalWajid/)**
+<br />
 
-<br>
-
-<sub>Lahore, Pakistan · Daniyal Wajid</sub>
+<sub>© Daniyal Wajid</sub>
 
 </div>
