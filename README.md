@@ -1,125 +1,129 @@
-# Daniyal Wajid
+<div align="center">
 
-### Software Engineer | Full Stack Developer | MERN Stack | AI & Computer Vision
+# DANIYAL WAJID
 
-I'm a **Software Engineer and Gold Medalist** with a BS in Software Engineering from Riphah International University, Lahore.
+**software engineer · full-stack · artificial intelligence**
 
-I specialize in **full-stack web development, MERN stack development, backend development, REST APIs, Artificial Intelligence, Machine Learning, and Computer Vision**. I build practical software applications using **React.js, Next.js, Node.js, Express.js, MongoDB, Python, and JavaScript**.
+building things that make me curious.
 
-Currently looking for opportunities as a **Software Engineer, Full Stack Developer, MERN Stack Developer, or Backend Developer**.
+<br>
 
-[Portfolio](https://daniyal-wajid.github.io/DaniyalWajid/) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:daniyal.wajid12@gmail.com)
+[**website**](https://daniyal-wajid.github.io/DaniyalWajid/)   ·  
+[**linkedin**](YOUR_LINKEDIN_URL)   ·  
+[**email**](mailto:daniyal.wajid12@gmail.com)
 
----
+</div>
 
-## Tech Stack
-
-### Frontend Development
-
-`JavaScript` `React.js` `Next.js` `HTML` `CSS`
-
-### Backend Development
-
-`Node.js` `Express.js` `REST APIs` `Authentication` `MongoDB`
-
-### AI & Machine Learning
-
-`Python` `PyTorch` `TensorFlow` `Scikit-Learn` `Machine Learning` `Deep Learning`
-
-### Computer Vision
-
-`OpenCV` `YOLOv8` `Object Detection` `Facial Recognition` `CNNs`
-
-### Programming & Tools
-
-`C++` `Java` `SQL` `Git` `GitHub` `Linux` `Postman` `VS Code`
+<br>
 
 ---
 
-## Featured Projects
+### `01` — things I've been building
 
-### HawkEye | AI-Powered Campus Monitoring Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A **full-stack AI surveillance and campus monitoring system** designed for real-time video analysis, automated violation detection, and intelligent alerting.
+**HAWKEYE**
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Python, YOLOv8, OpenCV
+Campus monitoring, but automated.
 
-* Developed real-time **computer vision and object detection** workflows.
-* Built a web-based monitoring dashboard using React.js.
-* Developed backend services and REST APIs using Node.js and Express.js.
-* Trained custom YOLOv8 models achieving **90.4% mAP@50, 91.8% recall, and 80.7% precision**.
-* **1st Position across all university batches** for Final Year Project.
+A computer-vision system that watches live video, detects violations, and turns what it sees into actionable alerts.
 
----
+`YOLOv8` `OpenCV` `React` `Node` `MongoDB`
 
-### Attendify | Face Recognition Attendance System
+**90.4 mAP@50**
 
-A **full-stack facial recognition attendance system** for automated student identification, attendance tracking, and reporting.
+[github →](YOUR_HAWKEYE_REPO)
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Python, CNN, OpenCV
+</td>
 
-* Developed automated facial recognition and student verification.
-* Built attendance management and reporting workflows.
-* Achieved **80%+ recognition accuracy** across real-world testing scenarios.
-* Reduced manual attendance effort by **over 90%**.
+<td width="50%" valign="top">
 
----
+**ATTENDIFY**
 
-### ClassTrack | Smart Examination Monitoring Platform
+Attendance without the paperwork.
 
-A **full-stack examination monitoring system** combining RFID verification and computer vision for automated exam supervision.
+A facial-recognition system built around automated student verification, tracking, and reporting.
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Python, YOLOv8, OpenCV
+`CNN` `OpenCV` `React` `Node` `MongoDB`
 
-* Developed real-time monitoring and anomaly detection workflows.
-* Used YOLOv8 for suspicious examination behavior detection.
-* Integrated computer vision with web-based monitoring.
-* Reduced manual invigilation effort by **60%**.
+**80%+ recognition accuracy**
 
----
+[github →](YOUR_ATTENDIFY_REPO)
 
-## Experience
+</td>
+</tr>
 
-### Freelance Software Developer
+<tr>
+<td width="50%" valign="top">
 
-**2024 – Present**
+**CLASSTRACK**
 
-* Developed **MERN stack web applications** for clients.
-* Built REST APIs, authentication systems, and MongoDB database solutions.
-* Worked across frontend and backend development using React.js, Node.js, and Express.js.
-* Collaborated directly with clients from requirements gathering through deployment.
+Making examination monitoring smarter.
 
----
+RFID verification paired with computer vision to detect suspicious behavior in real time.
 
-## Achievements
+`YOLOv8` `OpenCV` `React` `Node`
 
-* 🥇 **Gold Medalist** | BS Software Engineering
-* 🎓 **3.77 / 4.00 CGPA**
-* 🏆 **1st Position** | Final Year Project across all university batches
-* 💻 **Winner** | TechFest 2024 Speed Programming Competition
-* 📜 **30+ Certifications** in AI, Machine Learning, Python, and Software Engineering
-* 🌐 **TOEFL iBT: 100/120**
+**60% less manual invigilation**
 
----
+[github →](YOUR_CLASSTRACK_REPO)
 
-## What I'm Interested In
+</td>
 
-**Software Engineering · Full Stack Development · MERN Stack · Backend Development · Artificial Intelligence · Machine Learning · Computer Vision**
+<td width="50%" valign="top">
 
-I'm interested in building scalable web applications, intelligent software systems, and products that solve real-world problems.
+**AI WARDROBE**
 
----
+An experiment that started with clothes.
 
-## Let's Connect
+Upload an item, let AI understand it, organize your wardrobe, and help turn what's already there into something new.
 
-**Portfolio:** [daniyal-wajid.github.io/DaniyalWajid](https://daniyal-wajid.github.io/DaniyalWajid/)
+`AI` `Computer Vision` `Web`
 
-**LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+**currently evolving**
 
-**Email:** [daniyal.wajid12@gmail.com](mailto:daniyal.wajid12@gmail.com)
+[try it →](YOUR_WARDROBE_URL)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-<p align="center">
-  <i>Software Engineer building full-stack and intelligent applications.</i>
-</p>
+### `02` — the stack
+
+```text
+javascript     react · next.js · node · express
+python         pytorch · tensorflow · opencv
+data           mongodb · sql
+vision         yolov8 · cnn · object detection
+tools          git · linux · postman
+```
+
+---
+
+### `03` — lately
+
+```text
+→ building full-stack applications
+→ experimenting with AI-powered products
+→ learning something new every time I open a repository
+```
+
+---
+
+<div align="center">
+
+### let's build something.
+
+**[portfolio ↗](https://daniyal-wajid.github.io/DaniyalWajid/)**
+
+<br>
+
+<sub>Lahore, Pakistan · Daniyal Wajid</sub>
+
+</div>
